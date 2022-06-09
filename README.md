@@ -1,7 +1,9 @@
-# aula07_condicionais_e_funcoes
-Aula 07 Condicionais e funcoes
+# Aula 07 Condicionais e funcoes
 
-cassiofreitas
-marceloodev
-nathrfranca 
-sekimzero
+## Participantes da Room 3 - Atividade 1
+- [cassiofreitas]()
+- [marceloodev]()
+- [nathrfranca]()
+- [sekimzero]()
+
+## Respostas da atividade 1
