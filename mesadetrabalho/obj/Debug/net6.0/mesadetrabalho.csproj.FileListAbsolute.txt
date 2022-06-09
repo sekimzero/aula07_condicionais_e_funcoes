@@ -1,0 +1,15 @@
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\bin\Debug\net6.0\mesadetrabalho.exe
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\bin\Debug\net6.0\mesadetrabalho.deps.json
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\bin\Debug\net6.0\mesadetrabalho.runtimeconfig.json
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\bin\Debug\net6.0\mesadetrabalho.dll
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\bin\Debug\net6.0\mesadetrabalho.pdb
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.csproj.AssemblyReference.cache
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.AssemblyInfoInputs.cache
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.AssemblyInfo.cs
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.csproj.CoreCompileInputs.cache
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.dll
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\refint\mesadetrabalho.dll
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.pdb
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\mesadetrabalho.genruntimeconfig.cache
+C:\Users\marceloa\Desktop\DH\Aula 6\mesadetrabalho\mesadetrabalho\obj\Debug\net6.0\ref\mesadetrabalho.dll
