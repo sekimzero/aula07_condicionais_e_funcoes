@@ -2,9 +2,9 @@
 
 ## Participantes da Room 3
 - cassiofreitas [atividade1](./tree/cassiofreitas/atividade1) [atividade2]()
-- marceloodev() [atividade1]() [atividade2]()
-- nathrfranca]() [atividade1]() [atividade2]()
-- sekimzero() [atividade1]() [atividade2]()
+- marceloodev [atividade1]() [atividade2]()
+- nathrfranca [atividade1]() [atividade2]()
+- sekimzero [atividade1]() [atividade2]()
 
 ---------------------
 
