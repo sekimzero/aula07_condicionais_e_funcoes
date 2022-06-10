@@ -1,16 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-// Business rules:
-// IMC = Peso ÷ (Altura × Altura)
-//
-//Resultado do cálculo do IMC
-//Abaixo de 18.5 = Anêmico
-//Entre 18.5 e 24.9 = Normal
-//Entre 25 e 29.9 = Sobrepeso
-//Acima de 30 = Obesidade
-//Maior que 40 = Obesidade grave
-//
-// Utilize a mensagem a seguir como base do retorno esperado:
-// Seu diagnóstico é XXXXXX.
 
 double alturaDoUsuarioEntrada;
 double pesoDoUsuarioEntrada;
