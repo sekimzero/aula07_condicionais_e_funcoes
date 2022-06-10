@@ -24,7 +24,7 @@
 
 3. Responda, quais tipos de variável é retornada  pela função nessa atividade?
 
-- `double`
+- `string`
 --------------------
 ## Respostas da atividade 2
 
