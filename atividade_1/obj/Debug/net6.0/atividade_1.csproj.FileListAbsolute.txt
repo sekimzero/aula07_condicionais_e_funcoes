@@ -1,0 +1,15 @@
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\bin\Debug\net6.0\atividade_1.exe
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\bin\Debug\net6.0\atividade_1.deps.json
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\bin\Debug\net6.0\atividade_1.runtimeconfig.json
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\bin\Debug\net6.0\atividade_1.dll
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\bin\Debug\net6.0\atividade_1.pdb
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.csproj.AssemblyReference.cache
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.AssemblyInfoInputs.cache
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.AssemblyInfo.cs
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.csproj.CoreCompileInputs.cache
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.dll
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\refint\atividade_1.dll
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.pdb
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\atividade_1.genruntimeconfig.cache
+C:\Users\cassio\DiverseDev\aula07_condicionais_e_funcoes\atividade_1\obj\Debug\net6.0\ref\atividade_1.dll
