@@ -18,8 +18,8 @@ static string RetornarDiagnosticoDoUsuario(double pesoDoUsuario, double alturaDo
         >= 18.5 and < 25 => "Normal",
         >= 25 and < 30 => "Sobrepeso",
         >= 30 and < 40 => "Obesidade",
-        >= 40 => "Obesidade Grava",
-        _ => "Valor "
+        >= 40 => "Obesidade Grave",
+        _ => "Erro"
     };
 };
 

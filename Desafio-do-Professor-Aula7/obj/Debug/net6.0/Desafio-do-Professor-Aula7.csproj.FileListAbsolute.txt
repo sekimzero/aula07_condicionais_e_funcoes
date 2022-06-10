@@ -1,0 +1,15 @@
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\bin\Debug\net6.0\Desafio-do-Professor-Aula7.exe
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\bin\Debug\net6.0\Desafio-do-Professor-Aula7.deps.json
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\bin\Debug\net6.0\Desafio-do-Professor-Aula7.runtimeconfig.json
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\bin\Debug\net6.0\Desafio-do-Professor-Aula7.dll
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\bin\Debug\net6.0\Desafio-do-Professor-Aula7.pdb
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.csproj.AssemblyReference.cache
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.AssemblyInfo.cs
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.dll
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\refint\Desafio-do-Professor-Aula7.dll
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.pdb
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\Desafio-do-Professor-Aula7.genruntimeconfig.cache
+C:\Users\DiverseDev\Desktop\Atividades\aula07_condicionais_e_funcoes\Desafio-do-Professor-Aula7\obj\Debug\net6.0\ref\Desafio-do-Professor-Aula7.dll
