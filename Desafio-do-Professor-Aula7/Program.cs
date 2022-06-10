@@ -20,6 +20,7 @@ static string RetornarDiagnosticoDoUsuario(double pesoDoUsuario, double alturaDo
         >= 30 and < 40 => "Obesidade",
         >= 40 => "Obesidade Grave",
         _ => "Erro"
+
     };
 };
 
