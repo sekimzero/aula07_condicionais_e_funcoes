@@ -34,4 +34,3 @@
 ### 3. Assinale todas as afirmações que forem verdadeiras, quais as diferenças das condicionais switch e if?
  
 - `É possível ter várias instruções com if e switch para múltipla escolha de instruções.`
-- `É possível ter várias instruções if para múltipla escolha de instruções. No switch, você só tem uma expressão para as várias opções.`
