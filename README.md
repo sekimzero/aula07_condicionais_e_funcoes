@@ -1,4 +1,4 @@
-# Aula 07 Condicionais e funcoes
+# Aula 07: Condicionais e funções
 
 ## Participantes da Room 3
 - cassiofreitas [atividade1]() [atividade2]()
