@@ -24,7 +24,7 @@
 
 3. Responda, quais tipos de variável é retornada  pela função nessa atividade?
 
-- `string`
+- `double` ( na implementação de cassiofreitas )
 --------------------
 ## Respostas da atividade 2
 
