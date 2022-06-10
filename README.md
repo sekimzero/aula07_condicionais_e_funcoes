@@ -1,10 +1,18 @@
-# Aula 07: Condicionais e funções
+# Aula 07: Condicionais e funções - 09/06/2022
 
 ## Participantes da Room 3
-- cassiofreitas [atividade1](./tree/cassiofreitas/atividade1) [atividade2]()
-- marceloodev [atividade1]() [atividade2]()
-- nathrfranca [atividade1]() [atividade2]()
-- sekimzero [atividade1]() [atividade2]()
+- cassiofreitas
+  - [atividade1](https://github.com/cassiofreitas/aula07_condicionais_e_funcoes/tree/cassiofreitas/atividade_1)
+  - [atividade2](https://github.com/cassiofreitas/aula07_condicionais_e_funcoes/tree/cassiofreitas/atividade_2)
+- marceloodev
+  - [atividade1]()
+  - [atividade2]()
+- nathrfranca
+  - [atividade1]()
+  - [atividade2]()
+- sekimzero
+  - [atividade1]()
+  - [atividade2]()
 
 ---------------------
 
