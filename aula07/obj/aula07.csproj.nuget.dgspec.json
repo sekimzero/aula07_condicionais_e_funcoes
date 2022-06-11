@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DiverseDev\\Source\\Repos\\aula07_condicionais_e_funcoes\\aula07\\aula07.csproj": {}
+    "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula7\\aula07\\aula07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DiverseDev\\Source\\Repos\\aula07_condicionais_e_funcoes\\aula07\\aula07.csproj": {
+    "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula7\\aula07\\aula07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DiverseDev\\Source\\Repos\\aula07_condicionais_e_funcoes\\aula07\\aula07.csproj",
+        "projectUniqueName": "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula7\\aula07\\aula07.csproj",
         "projectName": "aula07",
-        "projectPath": "C:\\Users\\DiverseDev\\Source\\Repos\\aula07_condicionais_e_funcoes\\aula07\\aula07.csproj",
-        "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DiverseDev\\Source\\Repos\\aula07_condicionais_e_funcoes\\aula07\\obj\\",
+        "projectPath": "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula7\\aula07\\aula07.csproj",
+        "packagesPath": "C:\\Users\\SeKim rgb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula7\\aula07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SeKim rgb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
