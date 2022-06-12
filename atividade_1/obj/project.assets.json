@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cassio\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SeKim rgb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cassio\\DiverseDev\\aula07_condicionais_e_funcoes\\atividade_1\\atividade_1.csproj",
+      "projectUniqueName": "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula07\\atividade_1\\atividade_1.csproj",
       "projectName": "atividade_1",
-      "projectPath": "C:\\Users\\cassio\\DiverseDev\\aula07_condicionais_e_funcoes\\atividade_1\\atividade_1.csproj",
-      "packagesPath": "C:\\Users\\cassio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cassio\\DiverseDev\\aula07_condicionais_e_funcoes\\atividade_1\\obj\\",
+      "projectPath": "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula07\\atividade_1\\atividade_1.csproj",
+      "packagesPath": "C:\\Users\\SeKim rgb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SeKim rgb\\Meu Drive\\ESTUDOS\\AULAS\\Aula07\\atividade_1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cassio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\SeKim rgb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
